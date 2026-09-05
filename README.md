@@ -25,11 +25,13 @@
 - Open to collabs / roles, reach out, I reply
 - probably debugging something with a v60 in hand
 
-<!-- ░░ IMAGE SLOT 1 — a wide banner, product shot, or gif. delete if unused ░░
 <p align="center">
-  <img src="assets/hero.gif" width="720" alt="hero" />
+  <img src="https://raw.githubusercontent.com/git-akhi3/git-akhi3/main/assets/coding.gif" width="380" alt="coding" />
 </p>
--->
+
+<p align="center">
+  <sub>Illustration by <a href="https://storyset.com">Storyset</a></sub>
+</p>
 
 ---
 
