@@ -8,7 +8,7 @@
 <!-- ░░ TYPEWRITER INTRO ░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=Full-stack+engineer;Django+%2B+FastAPI+on+the+back%2C+React+on+the+front;Shipping+on+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-stack+engineer;Django+%2B+FastAPI+on+the+back%2C+React+on+the+front;Shipping+on+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,12 +54,7 @@
 ---
 -->
 
-### `stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=git-akhi3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=git-akhi3&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=c9d1d9" />
-</p>
+### `contributions`
 
 <!-- ░░ SNAKE — needs .github/workflows/snake.yml, run it once from the Actions tab ░░ -->
 <p align="center">
