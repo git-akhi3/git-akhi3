@@ -4,11 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Akhil&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=full-stack%20engineer&descAlignY=55&descSize=18&animation=fadeIn" />
 </p>
 
-<!-- ░░ TYPEWRITER INTRO ░░ -->
+<!-- ░░ TERMINAL — hand-authored animated SVG, lives in assets/terminal.svg ░░ -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-stack+engineer;Django+%2B+FastAPI+on+the+back%2C+React+on+the+front;Shipping+on+AWS" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/git-akhi3/git-akhi3/main/assets/terminal.svg" width="700" alt="terminal" />
 </p>
 
 <p align="center">
